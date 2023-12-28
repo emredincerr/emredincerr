@@ -36,8 +36,8 @@
 
 
 <div style="display:flex">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=emredincerr&show_icons=true&theme=dark&text_color=397dc6&locale=en" alt="emredincerr" width="auto" height="180" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emredincerr&show_icons=true&theme=dark&locale=en&layout=compact" alt="emredincerr" width="auto" height="180" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=emredincerr&show_icons=true&theme=dark&text_color=397dc6&locale=en" alt="emredincerr" width="auto" height="auto" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emredincerr&show_icons=true&theme=dark&locale=en&layout=compact" alt="emredincerr" width="auto" height="auto" />
 </div>
 
 
