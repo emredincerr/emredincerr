@@ -35,9 +35,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emredincerr&label=Profile%20views&color=30bb39&style=flat" alt="emredincerr" /> </p>
 
 
-<div style="display:flex">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=emredincerr&show_icons=true&theme=dark&text_color=397dc6&locale=en" alt="emredincerr" width="auto" height="auto" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emredincerr&show_icons=true&theme=dark&locale=en&layout=compact" alt="emredincerr" width="auto" height="auto" />
-</div>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emredincerr&show_icons=true&theme=dark&locale=en&layout=compact" alt="emredincerr" width="auto" height="auto" />
 
