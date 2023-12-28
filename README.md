@@ -33,7 +33,3 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emredincerr&label=Profile%20views&color=30bb39&style=flat" alt="emredincerr" /> </p>
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emredincerr&show_icons=true&theme=dark&locale=en&layout=compact" alt="emredincerr" width="auto" height="auto" />
-
