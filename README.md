@@ -1,15 +1,16 @@
 <h1 align="center">Hi there, I'm Emre Dincer 👋</h1>
 <h3 align="center">Enthusiastic about data analysis, machine learning, and AI. Passionate learner, avid problem-solver. Dedicated to leveraging data to uncover insights and create impactful solutions.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
     <a href="https://linkedin.com/in/emredincerr" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emredincerr" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emredincerr" height="30" width="40" />
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
     </a>
@@ -30,11 +31,13 @@
     </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emredincerr&label=Profile%20views&color=30bb39&style=flat" alt="emredincerr" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emredincerr&label=Profile%20views&color=30bb39&style=flat" alt="emredincerr" /> </p>
+
 
 <div style="display:flex">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=emredincerr&show_icons=true&theme=dark&text_color=397dc6&locale=en" alt="emredincerr" width="400" height="auto" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emredincerr&show_icons=true&theme=dark&locale=en&layout=compact" alt="emredincerr" width="" height="auto" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=emredincerr&show_icons=true&theme=dark&text_color=397dc6&locale=en" alt="emredincerr" width="auto" height="180" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emredincerr&show_icons=true&theme=dark&locale=en&layout=compact" alt="emredincerr" width="auto" height="180" />
 </div>
 
 
