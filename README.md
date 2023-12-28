@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Emre Dincer 👋</h1>
-<h3 align="center">Enthusiastic about data analysis, machine learning, and AI. Passionate learner, avid problem-solver. Dedicated to leveraging data to uncover insights and create impactful solutions.</h3>
+<h3 align="center">Enthusiastic about data analysis, data science, machine learning, and AI. Passionate learner, avid problem-solver. Dedicated to leveraging data to uncover insights and create impactful solutions.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
