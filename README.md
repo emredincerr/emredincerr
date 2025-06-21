@@ -1,11 +1,14 @@
-<h1 align="center">Hi there, I'm Emre Dincer 👋</h1>
-<h3 align="center">Enthusiastic about data science, machine learning & generative AI. Passionate learner, avid problem-solver. Dedicated to utilizing data to uncover insights and create impactful solutions.</h3>
+<h1 align="center">Hi there, I'm Emre 👋</h1>
+<h3 align="center">I’m a passionate developer working on projects in artificial intelligence, data science, and large language models (LLMs). I use Python, FastAPI, and modern AI tools to build functional and innovative solutions. I’m actively shaping my career in this field with hands-on experience and continuous learning.
+</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/emredincerr" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emredincerr" height="30" width="40" />
     </a>
+    <a href="https://medium.com/@emredincerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emredincerr" height="30" width="40" /></a>
+</p>
 </p>
 
 
