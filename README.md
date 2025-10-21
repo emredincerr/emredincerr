@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Emre 👋</h1>
-<h3 align="center">I’m a passionate developer working on projects in artificial intelligence, data science, and large language models (LLMs). I use Python, FastAPI, and modern AI tools to build functional and innovative solutions. I’m actively shaping my career in this field with hands-on experience and continuous learning.
+<h3 align="center">I work on artificial intelligence, large language models (LLMs), and software development projects. I create functional and innovative solutions using Python, JavaScript, Node.js, and modern AI technologies. I actively pursue the development of my career in this field.
 </h3>
 
 <h3 align="center">Connect with me:</h3>
